@@ -1,0 +1,18 @@
+﻿生成启动时间为 2016/9/3 13:56:12。
+     1>项目“E:\yyc\Projects\videoCut\snapseg\snapseg.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\snapseg.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       Link:
+         所有输出均为最新。
+         snapseg.vcxproj -> E:\yyc\Projects\videoCut\Debug\snapseg.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\snapseg.unsuccessfulbuild”。
+         正在对“Debug\snapseg.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\yyc\Projects\videoCut\snapseg\snapseg.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.07
